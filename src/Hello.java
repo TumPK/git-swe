@@ -8,14 +8,13 @@ public class Hello {
 		System.out.println("Hello Test2");
 		System.out.println("Hello test4");
 		System.out.println("Hello test5");
-<<<<<<< HEAD
+
 		System.out.println("test 7");
 		System.out.println("test 7");
 		System.out.println("test 7");
 		System.out.println("test 7");
 		System.out.println("test 7");
 		System.out.println("test 7");
-=======
 		
 		System.out.println("hello test6");
 		
@@ -24,7 +23,6 @@ public class Hello {
 		System.out.println("hello test6");
 		
 		System.out.println("hello test6");
->>>>>>> branch 'master' of https://github.com/TumPK/git-swe
 	}
 
 }
