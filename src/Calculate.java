@@ -7,6 +7,12 @@ public class Calculate {
 	}
 	
 	public String output() {
-		return null;
+		String str = "";
+		if(this.number%2 == 0) {
+			str = "Even";
+		}else {
+			str = "Odd";
+		}
+		return str;
 	}
 }
