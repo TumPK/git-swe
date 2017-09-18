@@ -1,5 +1,6 @@
 
 public class Calculate {
+	
 	public int number;
 	
 	public Calculate(int number) {
