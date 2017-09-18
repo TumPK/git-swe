@@ -9,6 +9,7 @@ public class Hello {
 		
 		Calculate cal = new Calculate(number);
 		System.out.println(cal.output());
+		
 	}
 
 }
